@@ -1,0 +1,32 @@
+{
+  "streams": [
+    {
+      "title": "Primeiro Stream",
+      "description": "Meu Primeiro Stream",
+      "id": 1
+    },
+    {
+      "title": "Outro Stream",
+      "description": "Aqui outro Stream",
+      "id": 2
+    },
+    {
+      "title": "Novo Stream",
+      "description": "Stream com formulário sendo reutilizado",
+      "userId": "110128424209364669952",
+      "id": 7
+    },
+    {
+      "title": "GTA V",
+      "description": "See the new Avengers mod",
+      "userId": "110128424209364669952",
+      "id": 8
+    },
+    {
+      "description": "Olá acompanhe o Curso de React - Ao vivo",
+      "title": "React ao vivo",
+      "userId": "110128424209364669952",
+      "id": 9
+    }
+  ]
+}
